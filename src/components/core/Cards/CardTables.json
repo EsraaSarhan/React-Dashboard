@@ -1,0 +1,19 @@
+ {"dataTables": [{
+        "id": 1,
+        "name": "Product1",
+        "salary": 120,
+        "country": "niger"
+    },{
+        "id": 1,
+        "name": "Product1",
+        "salary": 120,
+        "country": "niger"
+    },
+    {
+        "id": 1,
+        "name": "Product1",
+        "salary": 120,
+        "country": "niger"
+    }]
+}
+
